@@ -1,0 +1,8 @@
+/home/nicolai/Documents/DIPS/Bank/bin/Debug/netstandard2.0/Bank.deps.json
+/home/nicolai/Documents/DIPS/Bank/bin/Debug/netstandard2.0/Bank.dll
+/home/nicolai/Documents/DIPS/Bank/bin/Debug/netstandard2.0/Bank.pdb
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netstandard2.0/Bank.csproj.CoreCompileInputs.cache
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netstandard2.0/Bank.AssemblyInfoInputs.cache
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netstandard2.0/Bank.AssemblyInfo.cs
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netstandard2.0/Bank.dll
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netstandard2.0/Bank.pdb

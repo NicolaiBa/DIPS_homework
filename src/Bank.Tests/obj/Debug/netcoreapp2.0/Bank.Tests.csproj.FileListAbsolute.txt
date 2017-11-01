@@ -1,0 +1,30 @@
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.deps.json
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.runtimeconfig.json
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.runtimeconfig.dev.json
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.dll
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.pdb
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.dll
+/home/nicolai/Documents/DIPS/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.pdb
+/home/nicolai/Documents/DIPS/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.csproj.CoreCompileInputs.cache
+/home/nicolai/Documents/DIPS/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.AssemblyInfoInputs.cache
+/home/nicolai/Documents/DIPS/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.AssemblyInfo.cs
+/home/nicolai/Documents/DIPS/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.dll
+/home/nicolai/Documents/DIPS/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.pdb
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.deps.json
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.runtimeconfig.json
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.runtimeconfig.dev.json
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.dll
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.Tests.pdb
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.dll
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/bin/Debug/netcoreapp2.0/Bank.pdb
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.csproj.CoreCompileInputs.cache
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.AssemblyInfoInputs.cache
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.AssemblyInfo.cs
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.dll
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank.Tests/obj/Debug/netcoreapp2.0/Bank.Tests.pdb

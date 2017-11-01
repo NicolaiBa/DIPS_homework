@@ -1,0 +1,16 @@
+/home/nicolai/Documents/DIPS/Bank/bin/Debug/netcoreapp2.0/Bank.deps.json
+/home/nicolai/Documents/DIPS/Bank/bin/Debug/netcoreapp2.0/Bank.dll
+/home/nicolai/Documents/DIPS/Bank/bin/Debug/netcoreapp2.0/Bank.pdb
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netcoreapp2.0/Bank.csproj.CoreCompileInputs.cache
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netcoreapp2.0/Bank.AssemblyInfoInputs.cache
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netcoreapp2.0/Bank.AssemblyInfo.cs
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netcoreapp2.0/Bank.dll
+/home/nicolai/Documents/DIPS/Bank/obj/Debug/netcoreapp2.0/Bank.pdb
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank/bin/Debug/netcoreapp2.0/Bank.deps.json
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank/bin/Debug/netcoreapp2.0/Bank.dll
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank/bin/Debug/netcoreapp2.0/Bank.pdb
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank/obj/Debug/netcoreapp2.0/Bank.csproj.CoreCompileInputs.cache
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank/obj/Debug/netcoreapp2.0/Bank.AssemblyInfoInputs.cache
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank/obj/Debug/netcoreapp2.0/Bank.AssemblyInfo.cs
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank/obj/Debug/netcoreapp2.0/Bank.dll
+/home/nicolai/Documents/Development_Task_ DIPS_NicolaiBakkeli_01112017/src/Bank/obj/Debug/netcoreapp2.0/Bank.pdb
